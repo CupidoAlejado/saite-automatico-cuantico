@@ -1,0 +1,1 @@
+packages = ["pyautogui", "time", "keyboard",]
