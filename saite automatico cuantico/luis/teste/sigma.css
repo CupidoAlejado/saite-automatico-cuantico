@@ -1,0 +1,21 @@
+.tablete{
+    width: 10%;
+}
+
+.desc{
+
+    width: 10%;
+}
+
+body{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+iframe{
+    margin-left: 50px;
+    border: solid;
+    width: 1500px;
+    height: 800px;
+}
